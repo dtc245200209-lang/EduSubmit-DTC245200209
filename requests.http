@@ -1,5 +1,4 @@
 @api = http://localhost:5000
-
 ### 1. Kiểm tra API đang chạy -> 200 OK
 GET {{api}}/
 
